@@ -1,0 +1,41 @@
+body{
+  font-family: sans-serif;
+  text-align: left;
+}
+.nav-item{
+  padding-left: 2rem;
+}
+#template{
+  background-color: #164ea1 ;
+}
+.container-fluid{
+  padding: 0.5% 2%;
+}
+.color{
+  background-color: #FD8710;
+  border-color: #FD8710;
+}
+.textcolor, a{
+  color:#FD8710
+}
+.text-color{
+  color:blanchedalmond;
+}
+.table{
+  padding: 1rem;
+}
+.purp{
+  background-color: #E3E4FC;
+}
+.extra-column{
+  padding: 3% 2%;
+}
+.social{
+  margin: 2% 20%;
+}
+.size-of{
+  font-size: 0.8rem;
+}
+.but{
+  border-radius: 38%;
+}
